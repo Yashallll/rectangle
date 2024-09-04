@@ -1,0 +1,12 @@
+C:\Users\Yato\Desktop\Учёба\ОА\Windows_rectangle\Windows_rectangle\x64\Debug\Windows_rectangle.vcxproj.AssemblyReference.cache
+C:\Users\Yato\Desktop\Учёба\ОА\Windows_rectangle\Windows_rectangle\x64\Debug\Windows_rectangle.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Yato\Desktop\Учёба\ОА\Windows_rectangle\Windows_rectangle\x64\Debug\Windowsrectangle.MyForm.resources
+C:\Users\Yato\Desktop\Учёба\ОА\Windows_rectangle\Windows_rectangle\x64\Debug\Windows_rectangle.vcxproj.GenerateResource.cache
+C:\Users\anton\OneDrive\Desktop\Windows_rectangle\Windows_rectangle\x64\Debug\Windows_rectangle.vcxproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Desktop\Windows_rectangle\Windows_rectangle\x64\Debug\Windows_rectangle.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\anton\OneDrive\Desktop\Windows_rectangle\Windows_rectangle\x64\Debug\Windowsrectangle.MyForm.resources
+C:\Users\anton\OneDrive\Desktop\Windows_rectangle\Windows_rectangle\x64\Debug\Windows_rectangle.vcxproj.GenerateResource.cache
+C:\Users\anton\OneDrive\Desktop\дз\2 курс\C++\Лабы\Лабораторная работа 14\Задание 2\Windows_rectangle\x64\Debug\Windows_rectangle.vcxproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Desktop\дз\2 курс\C++\Лабы\Лабораторная работа 14\Задание 2\Windows_rectangle\x64\Debug\Windows_rectangle.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\anton\OneDrive\Desktop\дз\2 курс\C++\Лабы\Лабораторная работа 14\Задание 2\Windows_rectangle\x64\Debug\Windowsrectangle.MyForm.resources
+C:\Users\anton\OneDrive\Desktop\дз\2 курс\C++\Лабы\Лабораторная работа 14\Задание 2\Windows_rectangle\x64\Debug\Windows_rectangle.vcxproj.GenerateResource.cache
